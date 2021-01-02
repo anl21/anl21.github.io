@@ -12,8 +12,7 @@ comments: false
 
 ## Personal Info
 
-
-[My github](https://github.com/anl21) if you wanna stop by.
+Game Designer
 
 
 
