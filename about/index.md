@@ -10,9 +10,18 @@ comments: false
 
 
 
-## Personal Info
+### <center> ANIL YANIK
 
-Game Designer
+<b>Game Designer & Unity Game Developer
+<br>
+
+_Currently studying my 4th year at <i>Silesian University<i> in Katowice as a Game Design Student._ 
+<br>
+
+
+
+
+
 
 
 
