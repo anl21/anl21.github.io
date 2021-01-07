@@ -30,12 +30,14 @@ Currently studying 4th year at <i> Silesian University in Katowice as a Game Des
 >
 >2021 June
 <br>
+
 >2020 February
 >
 >*University of Information Technology and Management(Erasmus+)* - Computer Graphics
 >
 >2020 June
 <br>
+
 >2020 November
 >
 >*Silesian University(Erasmus+)* - Game Design
