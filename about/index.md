@@ -25,6 +25,7 @@ Currently studying 4th year at <i> Silesian University in Katowice as a Game Des
 <br>
 
 >2017
+
 Beykoz University
 
 >2021
