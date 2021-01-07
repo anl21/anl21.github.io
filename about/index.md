@@ -12,7 +12,7 @@ comments: false
 
 ### <center> ANIL YANIK
 
-<b>Game Designer & Unity Game Developer
+<b>Game Designer 
 <br>
 
 Currently studying 4th year at <i> Silesian University in Katowice as a Game Design Student, Unity game Engine Level designer and developer, Unreal Engine Level Designer, fond of teamwork and self improvement. 
