@@ -24,11 +24,27 @@ Currently studying 4th year at <i> Silesian University in Katowice as a Game Des
 <b>Education
 <br>
 
->2017
+>2017 September
 >
->Beykoz University
+> *Beykoz University* - Digital Game Design
 >
->2021
+>2021 June
+<br>
+
+>2020 February
+>
+>*University of Information Technology and Management(Erasmus+)* - Computer Graphics
+>
+>2020 June
+
+<br>
+
+>2020 November
+>
+>*Silesian University(Erasmus+)* - Game Design
+>
+>2021 February
+
 
 
 
