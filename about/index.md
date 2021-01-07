@@ -46,7 +46,16 @@ Currently studying 4th year at <i> Silesian University in Katowice as a Game Des
 
 <b>Skills
 
-* C# <center> * C++                                             
+* C#    
+* C++
+* Unity 3D
+* Unreal Engine
+* Buildbox
+* Blender
+* Photoshop
+* Level Design
+* Game Documentation
+                                       
 
 
 
