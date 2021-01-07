@@ -46,7 +46,8 @@ Currently studying 4th year at <i> Silesian University in Katowice as a Game Des
 
 <b>Skills
 
-* C# &#160 &#160 &#160 C++                                                
+* C# 
+* <center> C++                                             
 
 
 
