@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My current Unity Level Design Project"
+title:  "Box Volume Post Processing Display"
 date:   2021-01-03
-excerpt: "I tried to create a small village with every suitable free assets that I could find :)"
+excerpt: "A project where I used the box volume post processing to display the level I designed"
 tag:
 - post
 - pictures
@@ -10,6 +10,22 @@ tag:
 - unity 
 #comments: true
 ---
+# Getting Started with Pipeline Shader
 
-<img src="\assets\img\istanbul.jpg"/>
+* After downloading the HD render pipeline and adding pipeline asset to the graphics almost all the meshes turned into pink color. Their materials were not compatible with the render pipeline. 
+
+<img src="\assets\img\LevelDesignpost\pinkassets.png"/>
+
+* Then i upgraded all materials and the materials were now compatible with the render pipeline. 
+
+<img src="\assets\img\LevelDesignpost\upgradeMaterials"/>
+
+* I used the box shapes and added Color Filter, Film Grain, Saturation, Bloom efects to each boxes. 
+
+<img src="\assets\img\LevelDesignpost\boxvolumepic"/>
+
+<figure class="half">
+	<img src="\assets\img\LevelDesignpost\boxvolumepic"/></a>
+	<img src="\assets\img\LevelDesignpost\boxvolumepic"/></a>
+</figure>
 
