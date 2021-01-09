@@ -18,14 +18,12 @@ tag:
 
 * Then i upgraded all materials and the materials were now compatible with the render pipeline. 
 
-<img src="\assets\img\LevelDesignpost\upgradeMaterials"/>
+<img src="\assets\img\LevelDesignpost\upgradeMaterials.png"/>
 
 * I used the box shapes and added Color Filter, Film Grain, Saturation, Bloom efects to each boxes. 
 
-<img src="\assets\img\LevelDesignpost\boxvolumepic"/>
-
 <figure class="half">
-	<img src="\assets\img\LevelDesignpost\boxvolumepic"/></a>
-	<img src="\assets\img\LevelDesignpost\boxvolumepic"/></a>
+	<img src="\assets\img\LevelDesignpost\boxvolumepic.png"/>
+	<img src="\assets\img\LevelDesignpost\boxvolumeinsidepic.png"/>
 </figure>
 
