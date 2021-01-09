@@ -2,7 +2,7 @@
 layout: post
 title: "Blender concept creation"
 date: 2020-12-22
-excerpt: "A concept art for my 'creative activities on plane' class"
+excerpt: "A concept art inspired by 'Metro 2033' game series"
 tags: [blender, concept, 3D]
 comments: true
 ---
