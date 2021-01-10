@@ -10,18 +10,18 @@ comments: true
 * The game is a tower defense where we protect our sheeps from getting killed by wolves. 
 
 
-<img src="\assets\img\kurt\start.png"/>
+<img src="\assets\img\kurt\start.jpg"/>
 
 
 * I made upgrade system and automatic turrets for the further levels. 
 
 
-<img src="\assets\img\kurt\gameplay.png"/>
+<img src="\assets\img\kurt\gameplay.jpg"/>
 
 
 * Models has been made with magicavoxel
 
 
-<img src="\assets\img\kurt\pmenu.png"/>
+<img src="\assets\img\kurt\pmenu.jpg"/>
 
 
