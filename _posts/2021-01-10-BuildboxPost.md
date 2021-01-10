@@ -47,7 +47,7 @@ tag:
 
 * We can either add pictures or buttons to our gameover screen and link the buttons (restart, mainmenu) from our <I> Mind map</I>.
 
-<img src="\assets\img\BuildboxPost\gameOverscreenpng"/>
+<img src="\assets\img\BuildboxPost\gameOverscreen.png"/>
 
 # Gameplay
 
