@@ -1,10 +1,35 @@
 ---
 layout: post
-title: "Post with Image Feature"
+title: "Teardown Modding"
 date: 2012-05-23
-excerpt: "A ton of text to test readability with image feature."
+excerpt: "Teardown map modding with Magicavoxel"
 tags: [sample post, readability, test, image, feature]
 feature: <img src="\assets\img\kurt\start.jpg"/>
 comments: true
 ---
 
+# Setting up the models 
+
+* first I moved the boat model that i made with magicaVoxel to the mod folder <I>/steam/steammaps/common/teardown/mods/</I> and i chose to edit the island map. 
+
+<img src="\assets\img\teardownpost\boatpic.png"/>
+
+* Then i added materials to this model. 
+* The materials that we can use for the models in teardown are affecting the physics of and the destructibility of these models.
+
+<img src="\assets\img\teardownpost\boatpicinside.png"/>
+
+* Another model to add inside of the mods.  
+
+<figure class="half">
+	<img src="\assets\img\teardownpost\modelinside.png"/>
+	<img src="\assets\img\teardownpost\modelnside-2.png"/>
+</figure>
+
+* After that we can find all the changed maps from the mods section inside of the game. 
+
+<img src="\assets\img\teardownpost\mods.png"/>
+
+* Down below I showcased the level and difference between materials' distructibility and the interaction with the enviroment.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/SQQNtqrwvPA" frameborder="0"> </iframe>
