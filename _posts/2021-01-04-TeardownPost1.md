@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teardown Modding"
-date: 2012-05-23
+date: 2020-12-15
 excerpt: "Teardown map modding with Magicavoxel"
 tags: [MagicaVoxel, modeling, Modding, Leveldesign, video, pictures]
 feature: <img src="\assets\img\kurt\start.jpg"/>
