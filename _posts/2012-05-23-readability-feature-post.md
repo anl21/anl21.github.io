@@ -3,12 +3,12 @@ layout: post
 title: "Teardown Modding"
 date: 2012-05-23
 excerpt: "Teardown map modding with Magicavoxel"
-tags: [sample post, readability, test, image, feature]
+tags: [MagicaVoxel, modeling, Modding, Leveldesign, video, pictures]
 feature: <img src="\assets\img\kurt\start.jpg"/>
 comments: true
 ---
 
-# Setting up the models 
+# Using MagicaVoxel to mod teardown 
 
 * first I moved the boat model that i made with magicaVoxel to the mod folder <I>/steam/steammaps/common/teardown/mods/</I> and i chose to edit the island map. 
 
