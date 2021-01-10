@@ -15,7 +15,7 @@ comments: false
 <b>Game Designer 
 <br>
 
-Currently studying 4th year at <i> Silesian University in Katowice as a Game Design Student, Unity game Engine Level designer and developer, Unreal Engine Level Designer, fond of teamwork and self improvement. 
+Currently studying 4th year at <i> Silesian University in Katowice as a Game Design Student, Unity game Engine Level designer and developer, Unreal Engine Level Designer, fond of teamwork and self improvement. Ludologin.com founder/owner.
 <br>
 <br>
 <i> You can check my posts about my level and concept design with Unity, Unreal Engine and Blender.
@@ -55,6 +55,12 @@ Currently studying 4th year at <i> Silesian University in Katowice as a Game Des
 * Photoshop
 * Level Design
 * Game Documentation
+
+<b>Projects
+
+<a href="https://anilyanik.me/posts/">posts</a>
+<a href="https://www.ludologin.com/">Our Game Design articles</a>
+
                                        
 
 

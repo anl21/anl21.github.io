@@ -23,7 +23,7 @@ comments: true
 
 <figure class="half">
 	<img src="\assets\img\teardownpost\modelinside.png"/>
-	<img src="\assets\img\teardownpost\modelnside-2.png"/>
+	<img src="\assets\img\teardownpost\modelinside-2.png"/>
 </figure>
 
 * After that we can find all the changed maps from the mods section inside of the game. 
@@ -33,3 +33,4 @@ comments: true
 * Down below I showcased the level and difference between materials' distructibility and the interaction with the enviroment.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/SQQNtqrwvPA" frameborder="0"> </iframe>
+
