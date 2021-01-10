@@ -22,7 +22,7 @@ tag:
 
 * We can create opening & fading animations with the UI menu editor. 
 
-<img src="\assets\img\BuildboxPost\levelselection.png"/>
+<img src="\assets\img\BuildboxPost\Levelselection.png"/>
 
 # 3D world 
 
@@ -48,6 +48,7 @@ tag:
 * We can either add pictures or buttons to our gameover screen and link the buttons (restart, mainmenu) from our <I> Mind map</I>.
 
 <img src="\assets\img\BuildboxPost\gameOverscreen.png"/>
+
 
 # Gameplay
 
