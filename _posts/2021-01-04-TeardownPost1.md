@@ -4,7 +4,7 @@ title: "Teardown Modding"
 date: 2020-12-15
 excerpt: "Teardown map modding with Magicavoxel"
 tags: [MagicaVoxel, modeling, Modding, Leveldesign, video, pictures]
-feature: <img src="\assets\img\kurt\start.jpg"/>
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
 
