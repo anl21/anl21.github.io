@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buildbox Simple Platform Game Display "
-date:   2021-01-03
+date:   2020-10-03
 excerpt: "I made a simple hyper-casual platform game using Buildbox GameMaker engine"
 tag:
 - post
